@@ -14,7 +14,7 @@ Docs: https://cued-partib-device-programming.readthedocs.io/en/latest/introducti
 #### Arduino (untested!)
 
 - Take the `temperature_sensor.cpp` file and copy the code into Arduino IDE
-- Compile and run
+- Most likely need to adjust some pin numbers and maybe change how Serial works, but compile and run
 - Run `graph_live_temp.py` to view the live temperature
 
 ![](connections.png?raw=true)
