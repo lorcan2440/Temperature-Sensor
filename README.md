@@ -1,4 +1,4 @@
-### IB Device Programming - Temperature Sensor
+### Temperature Sensor
 
 Compiler and IDE: https://ide.mbed.com/compiler/#nav:/mbed-os-example-mbed5-blinky/main.cpp;
 
